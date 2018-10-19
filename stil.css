@@ -1,0 +1,37 @@
+body{
+    background-color: black
+}
+h1{
+    font-size: 60px;
+font-family:cursive;
+color:white;
+text-align:center;
+background-image: url(bilder/Banner.jpg)
+}
+p{
+    color:white;
+font-family: cursive;
+    font-size: 25px;
+    text-align: left;
+}
+p2{
+    font-size: 30px;
+    font-family: cursive;
+    text-align: left;
+    color:white;
+}
+a{
+    font-size: 35px;
+    margin: 15px;
+    color:white;
+    background-color: black;
+    font-family: fantasy;
+    text-decoration: none;
+}
+img{
+    padding: 10px;
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    
+}
